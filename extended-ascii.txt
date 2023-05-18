@@ -1,0 +1,130 @@
+Dec      Hex     Oct     Char    Description
+-----------------------------------------------------------------
+128      80      200     Ç       Latin Capital Letter C with Cedilla
+129      81      201     ü       Latin Small Letter U with Diaeresis
+130      82      202     é       Latin Small Letter E with Acute
+131      83      203     â       Latin Small Letter A with Circumflex
+132      84      204     ä       Latin Small Letter A with Diaeresis
+133      85      205     à       Latin Small Letter A with Grave
+134      86      206     å       Latin Small Letter A with Ring Above
+135      87      207     ç       Latin Small Letter C with Cedilla
+136      88      210     ê       Latin Small Letter E with Circumflex
+137      89      211     ë       Latin Small Letter E with Diaeresis
+138      8A      212     è       Latin Small Letter E with Grave
+139      8B      213     ï       Latin Small Letter I with Diaeresis
+140      8C      214     î       Latin Small Letter I with Circumflex
+141      8D      215     ì       Latin Small Letter I with Grave
+142      8E      216     Ä       Latin Capital Letter A with Diaeresis
+143      8F      217     Å       Latin Capital Letter A with Ring Above
+144      90      220     É       Latin Capital Letter E with Acute
+145      91      221     æ       Latin Small Letter Ae
+146      92       222    Æ       Latin Capital Letter Ae
+147      93       223    ô       Latin Small Letter O with Circumflex
+148      94       224    ö       Latin Small Letter O with Diaeresis
+149      95       225    ò       Latin Small Letter O with Grave
+150      96       226    û       Latin Small Letter U with Circumflex
+151      97       227    ù       Latin Small Letter U with Grave
+152      98       230    ÿ       Latin Small Letter Y with Diaeresis
+153      99       231    Ö       Latin Capital Letter O with Diaeresis
+154      9A       232    Ü       Latin Capital Letter U with Diaeresis
+155      9B       233    ø       Latin Small Letter O with Stroke
+156      9C       234    £       Pound Sign
+157      9D       235    Ø       Latin Capital Letter O with Stroke
+158      9E       236    ×       Multiplication Sign
+159      9F       237    ƒ       Latin Small Letter F with Hook
+160      A0       240    á       Latin Small Letter A with Acute
+161      A1       241    í       Latin Small Letter I with Acute
+162      A2       242    ó       Latin Small Letter O with Acute
+163      A3       243    ú       Latin Small Letter U with Acute
+164      A4       244    ñ       Latin Small Letter N with Tilde
+165      A5       245    Ñ       Latin Capital Letter N with Tilde
+166      A6       246    ª       Feminine Ordinal Indicator
+167      A7       247    º       Masculine Ordinal Indicator
+168      A8       250    ¿       Inverted Question Mark
+169      A9       251    ®       Registered Sign
+170      AA       252    ¬       Not Sign
+171      AB       253    ½       Vulgar Fraction One Half
+172      AC       254    ¼       Vulgar Fraction One Quarter
+173      AD       255    ¡       Inverted Exclamation Mark
+174      AE       256    «       Left-Pointing Double Angle Quotation Mark
+175      AF       257    »       Right-Pointing Double Angle Quotation Mark
+176      B0       260    ░       Light Shade
+177      B1       261    ▒       Medium Shade
+178      B2       262    ▓       Dark Shade
+179      B3       263    │       Box Drawings Light Vertical
+180      B4       264    ┤       Box Drawings Light Vertical and Left
+181      B5       265    ╡       Box Drawings Vertical Single and Left Double
+182      B6       266    ╢       Box Drawings Vertical Double and Left Single
+183      B7       267    ╖       Box Drawings Down Double and Left Single
+184      B8       270    ╕       Box Drawings Down Single and Left Double
+185      B9       271    ╣       Box Drawings Double Vertical and Left
+186      BA       272    ║       Box Drawings Double Vertical
+187      BB       273    ╗       Box Drawings Double Down and Left
+188      BC       274    ╝       Box Drawings Double Up and Left
+189      BD       275    ╜       Box Drawings Up Double and Left Single
+190      BE       276    ╛       Box Drawings Up Single and Left Double
+191      BF       277    ┐       Box Drawings Light Down and Left
+192      C0       300    └       Box Drawings Light Up and Right
+193      C1       301    ┴       Box Drawings Light Up and Horizontal
+194      C2       302    ┬       Box Drawings Light Down and Horizontal
+195      C3       303    ├       Box Drawings Light Vertical and Right
+196      C4       304    ─       Box Drawings Light Horizontal
+197      C5       305    ┼       Box Drawings Light Vertical and Horizontal
+198      C6       306    ╞       Box Drawings Vertical Single and Right Double
+199      C7       307    ╟       Box Drawings Vertical Double and Right Single
+200      C8       310    ╚       Box Drawings Double Up and Right
+201      C9       311    ╔       Box Drawings Double Down and Right
+202      CA       312    ╩       Box Drawings Down Double and Horizontal Single
+203      CB       313    ╦       Box Drawings Down Single and Horizontal Double
+204      CC       314    ╠       Box Drawings Double Vertical and Right Single
+205      CD       315    ═       Box Drawings Double Horizontal
+206      CE       316    ╬       Box Drawings Double Vertical and Horizontal
+207      CF       317    ╧       Box Drawings Up Single and Horizontal Double
+208      D0       320    ╨       Box Drawings Up Double and Horizontal Single
+209      D1       321    ╤       Box Drawings Vertical Double and Horizontal Single
+210      D2       322    ╥       Box Drawings Vertical Single and Horizontal Double
+211      D3       323    ╙       Box Drawings Up Double and Right Single
+212      D4       324    ╘       Box Drawings Up Single and Right Double
+213      D5       325    ╒       Box Drawings Down Single and Right Double
+214      D6       326    ╓       Box Drawings Down Double and Right Single
+215      D7       327    ╫       Box Drawings Vertical Double and Horizontal Single
+216      D8       330    ╪       Box Drawings Vertical Single and Horizontal Double
+217      D9       331    ┘       Box Drawings Light Up and Left
+218      DA       332    ┌       Box Drawings Light Down and Right
+219      DB       333    █       Full Block
+220      DC       334    ▄       Lower Half Block
+221      DD       335    ▌       Left Half Block
+222      DE       336    ▐       Right Half Block
+223      DF       337    ▀       Upper Half Block
+224      E0       340    α       Greek Small Letter Alpha
+225      E1       341    ß       Latin Small Letter Sharp S (Eszett)
+226      E2       342    Γ       Greek Capital Letter Gamma
+227      E3       343    π       Greek Small Letter Pi
+228      E4       344    Σ       Greek Capital Letter Sigma
+229      E5       345    σ       Greek Small Letter Sigma
+230      E6       346    µ       Micro Sign
+231      E7       347    τ       Greek Small Letter Tau
+232      E8       350    Φ       Greek Capital Letter Phi
+233      E9       351    Θ       Greek Capital Letter Theta
+234      EA       352    Ω       Greek Capital Letter Omega
+235      EB       353    δ       Greek Small Letter Delta
+236      EC       354    ∞       Infinity
+237      ED       355    φ       Greek Small Letter Phi
+238      EE       356    ε       Greek Small Letter Epsilon
+239      EF       357    ∩       Intersection
+240      F0       360    ≡       Identical to
+241      F1       361    ±       Plus-Minus Sign
+242      F2       362    ≥       Greater-Than or Equal To
+243      F3       363    ≤       Less-Than or Equal To
+244      F4       364    ⌠       Top Half Integral
+245      F5       365    ⌡       Bottom Half Integral
+246      F6       366    ÷       Division Sign
+247      F7       367    ≈       Almost Equal To
+248      F8       370    °       Degree Sign
+249      F9       371    ∙       Bullet Operator
+250      FA       372    ·       Middle Dot
+251      FB       373    √       Square Root
+252      FC       374    ⁿ       Superscript Latin Small Letter N
+253      FD       375    ²       Superscript Two
+254      FE       376    ■       Black Square
+255      FF       377            No-Break Space
