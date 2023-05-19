@@ -92,9 +92,12 @@ function generateAsciiTables()
 
     html = ""
     for i, part in ipairs(asciiParts) do
-        local partHtml = "<table><tr><th>Decimal</th><th>Hex</th><th>Octal</th><th>Char</th><th>Description</th></tr>"
+        local partHtml = "<table><tr><th>Dec</th><th>Hex</th><th>Oct</th><th>Char</th><th>Description</th></tr>"
         for j, data in ipairs(part) do
-            partHtml = partHtml .. string.format("<tr><td>%3d</td><td>%2s</td><td>%3d</td><td>%s</td><td>%s</td></tr>", data.decimal, data.hex, data.octal, data.char, data.description)
+            partHtml = partHtml ..
+                string.format("<tr><td>%3d</td><td>%2s</td><td>%3d</td><td>%s</td><td>%s</td></tr>", data.decimal,
+                    data.hex,
+                    data.octal, data.char, data.description)
         end
         partHtml = partHtml .. "</table>"
 
@@ -111,9 +114,12 @@ function generateExtendedAsciiTables()
 
     html = ""
     for i, part in ipairs(asciiParts) do
-        local partHtml = "<table><tr><th>Decimal</th><th>Hex</th><th>Octal</th><th>Char</th><th>Description</th></tr>"
+        local partHtml = "<table><tr><th>Dec</th><th>Hex</th><th>Oct</th><th>Char</th><th>Description</th></tr>"
         for j, data in ipairs(part) do
-            partHtml = partHtml .. string.format("<tr><td>%3d</td><td>%2s</td><td>%3d</td><td>%s</td><td>%s</td></tr>", data.decimal, data.hex, data.octal, data.char, data.description)
+            partHtml = partHtml ..
+                string.format("<tr><td>%3d</td><td>%2s</td><td>%3d</td><td>%s</td><td>%s</td></tr>", data.decimal,
+                    data.hex,
+                    data.octal, data.char, data.description)
         end
         partHtml = partHtml .. "</table>"
 
